@@ -18,11 +18,14 @@ This project answers both, end-to-end: from raw transaction data to a client-rea
 ## Key Findings
 
 Who spends the most?  
-**Older Families (Budget)** and **Young Singles/Couples (Mainstream)** — for completely different reasons |
+**Older Families (Budget)** and **Young Singles/Couples (Mainstream)** — for completely different reasons
+
 What actually drives sales differences?
-Purchase **frequency** and **customer volume** — not basket size, not pack size |
+Purchase **frequency** and **customer volume** — not basket size, not pack size
+
 Which brand wins?
-**Kettle** — nearly 2x the sales of the next closest competitor |
+**Kettle** — nearly 2x the sales of the next closest competitor
+
 Did the new store layout work?
 **Yes.** All 3 trial stores showed statistically significant sales increases — up to **+74%** in the strongest-performing store |
 
