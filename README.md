@@ -23,7 +23,7 @@ Who spends the most?
 What actually drives sales differences?  
 Purchase **frequency** and **customer volume** — not basket size, not pack size
 
-Which brand wins? 
+Which brand wins?  
 **Kettle** — nearly 2x the sales of the next closest competitor
 
 Did the new store layout work?  
