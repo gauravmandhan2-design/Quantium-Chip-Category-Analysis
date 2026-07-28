@@ -20,7 +20,7 @@ This project answers both, end-to-end: from raw transaction data to a client-rea
 Who spends the most?  
 **Older Families (Budget)** and **Young Singles/Couples (Mainstream)** — for completely different reasons
 
-What actually drives sales differences? 
+What actually drives sales differences?  
 Purchase **frequency** and **customer volume** — not basket size, not pack size
 
 Which brand wins? 
